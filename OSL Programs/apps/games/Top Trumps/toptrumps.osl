@@ -52,7 +52,7 @@ count = 0
 loop cards.len (
   count ++
   cur = cards.[count]
-  image "https://raw.githubusercontent.com/Mistium/Origin-OS/main/OSL%20Programs/apps/games/Top%20Trumps/" ++ cur.[6] 0 0
+  image "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/games/Top%20Trumps/" ++ cur.[6] 0 0
 )
 
 score = 0
@@ -69,15 +69,15 @@ goto cond.len * -5 240
 text cond 10 : c#fff
 
 goto -270 0
-image "https://raw.githubusercontent.com/Mistium/Origin-OS/main/OSL%20Programs/apps/games/Top%20Trumps/" ++ player_card.[6] 300
+image "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/games/Top%20Trumps/" ++ player_card.[6] 300
 goto 270 0
 target = -100
 if chosen > 0 "target = 100"
 sx += target - sx / 50
 if sx <= 0 (
-img = "https://raw.githubusercontent.com/Mistium/Origin-OS/main/OSL%20Programs/apps/games/Top%20Trumps/backcard.jpg"
+img = "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/games/Top%20Trumps/backcard.jpg"
 ) else (
-img = "https://raw.githubusercontent.com/Mistium/Origin-OS/main/OSL%20Programs/apps/games/Top%20Trumps/" ++ comp_card.[6]
+img = "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/games/Top%20Trumps/" ++ comp_card.[6]
 )
 stretch "x" sx.abs
 image img 300

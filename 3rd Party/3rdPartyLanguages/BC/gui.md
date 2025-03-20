@@ -18,8 +18,8 @@ GUI/FrameBuilder.BGColor (gray)
 ```
 
 ## This will make a simple frame wich should look like this:
-![Image](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/app.png)
+![Image](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/app.png)
 (I drew this in paint.)
 
 # You completed this lesson! Congrats! 🎉
-[back to docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/README.md)
+[back to docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/README.md)

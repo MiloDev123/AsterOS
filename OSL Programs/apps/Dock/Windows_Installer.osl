@@ -27,7 +27,7 @@ if page == "installer" (
     path = user_folder ++ "/Applications/win-11.osl"
     file "open" path
     file "delete" path
-    network "getsync" "https://raw.githubusercontent.com/Mistium/Origin-OS/main/OSL%20Programs/apps/Win11.osl"
+    network "getsync" "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/Win11.osl"
     file "download" "win-11.osl" null data.str.destr user_folder ++ "/Applications"
     boot = user."onboot"
     boot.delete("Origin/(A) System/Docks/Dock.osl")

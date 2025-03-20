@@ -6,7 +6,7 @@ size = 0
 mainloop:
 
 goto 0 0
-image "https://raw.githubusercontent.com/Mistium/Origin-OS/main/Websites/rat.web/assets/rat_mouse_PNG23553.png" size
+image "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/Websites/rat.web/assets/rat_mouse_PNG23553.png" size
 
 inc = inc * 1.01
 size += inc

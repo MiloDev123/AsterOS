@@ -40,9 +40,9 @@ goto x + 65 y
 text upgrades.[item] 10 : c#aaa
 endef
 
-cookie_url = "https://raw.githubusercontent.com/Mistium/Origin-OS/main/3rd%20Party/3rdPartyDevs/RattusDong/Cookie/PerfectCookie.png"
+cookie_url = "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/3rd%20Party/3rdPartyDevs/RattusDong/Cookie/PerfectCookie.png"
 
-cursor = "https://raw.githubusercontent.com/Mistium/Origin-OS/main/3rd%20Party/3rdPartyDevs/RattusDong/Cookie/Cursor_64px.png"
+cursor = "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/3rd%20Party/3rdPartyDevs/RattusDong/Cookie/Cursor_64px.png"
 grandma = "https://static.wikia.nocookie.net/cookieclicker/images/a/a0/GrandmaIconTransparent.png"
 mainloop:
 

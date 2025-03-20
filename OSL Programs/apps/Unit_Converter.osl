@@ -3,7 +3,7 @@ window "dimensions" 320 200
 window "resizable" False
 
 def "check"
-  network "get" "https://raw.githubusercontent.com/Mistium/Origin-OS/main/utilities/conversions.json"
+  network "get" "https://raw.githubusercontent.com/MiloDev123/AsterOS/main/utilities/conversions.json"
   keys_main = data.getall("keys")
 endef
 

@@ -1,7 +1,7 @@
 # Warning: this language was not added to origin
-![Logo](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/logo.png)
+![Logo](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/logo.png)
 # **BetterCode Docs** ✨
-- official bettercode docs, version 1.5, this is a documentation for [OriginOS](https://github.com/Mistium/Origin-OS)
+- official bettercode docs, version 1.5, this is a documentation for [OriginOS](https://github.com/MiloDev123/AsterOS)
 - made by @costikoooo
 - an easy to read and write language
 - BetterCode only runs when a program triggers the file or the user opens executableBetterCode file or clicks run in the editor
@@ -12,29 +12,29 @@
 
 ## 1. Logic
 - Starter Logic:
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/logic.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/logic.md)
 - Variables
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/variables.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/variables.md)
 
 ## 2. Syntax
 - Basic Syntax
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/basicsyntax.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/basicsyntax.md)
 - Conditions
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/conditions.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/conditions.md)
 
 ## 3. Functions
 - Math
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/math.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/math.md)
 - Console
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/console.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/console.md)
 
 ## 4. GUI [BETA]
 - How to create testing frames
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/gui.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/gui.md)
 - How to move frames
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/guimove.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/guimove.md)
 - How to resize frames
-[click here to open docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/resizegui.md)
+[click here to open docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/resizegui.md)
 
 # To be added
 - package: random, time, string

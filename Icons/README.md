@@ -6,4 +6,4 @@ This is a directory of all the default origin icn files, so that users can quick
 
 All content under the /Icons folder within this repository, is licensed under the the following license:
 
-https://github.com/Mistium/Origin-OS/blob/main/Icons/LICENSE
+https://github.com/MiloDev123/AsterOS/blob/main/Icons/LICENSE

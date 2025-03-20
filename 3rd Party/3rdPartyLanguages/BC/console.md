@@ -32,4 +32,4 @@ hi!
 You can also use `+` instead of `,`.
 
 # You completed this lesson! Congrats! 🎉
-[back to docs](https://github.com/Mistium/Origin-OS/blob/main/3rd%20Party/3rdPartyLanguages/BC/README.md)
+[back to docs](https://github.com/MiloDev123/AsterOS/blob/main/3rd%20Party/3rdPartyLanguages/BC/README.md)

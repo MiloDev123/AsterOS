@@ -1,7 +1,7 @@
 window "show"
 window "dimensions" 1000 600
 page = "APPSTORE// store"
-input_provider = "https://api.github.com/repos/Mistium/Origin-OS/contents/Catalogue"
+input_provider = "https://api.github.com/repos/MiloDev123/AsterOS/contents/Catalogue"
 provider = input_provider
 
 network "clear" provider

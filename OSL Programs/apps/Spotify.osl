@@ -18,7 +18,7 @@ verified = ""
 mainloop:
 
 if verified.left(14) == "https://github" (
-  iframe "https://accounts.spotify.com/authorize?flow_ctx=3392264f-89bc-47b1-bad3-cdc545b31bd2%3A1707620614&response_type=code&client_id=d947a18e7b6f42e291d22ef43903ad5c&scope=user-read-private,user-read-currently-playing,user-read-playback-state&redirect_uri=https://github.com/Mistium/Origin-OS" "verify" 0 -20 window_width window_height - 40
+  iframe "https://accounts.spotify.com/authorize?flow_ctx=3392264f-89bc-47b1-bad3-cdc545b31bd2%3A1707620614&response_type=code&client_id=d947a18e7b6f42e291d22ef43903ad5c&scope=user-read-private,user-read-currently-playing,user-read-playback-state&redirect_uri=https://github.com/MiloDev123/AsterOS" "verify" 0 -20 window_width window_height - 40
   verified = iframe_url
 ) else (
   if sent.not (
