@@ -77,7 +77,7 @@ before = [
     type: "inf",
     name: "Checkout The Github Repo",
     icon: "c #fff w 25 dot 0 0 image " ++ images.github ++ " 20",
-    link: "https://github.com/Mistium/Origin-OS"
+    link: "https://github.com/MiloDev123/AsterOS"
   },
   {
     type: "inf",
