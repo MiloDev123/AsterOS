@@ -4,7 +4,7 @@
     "roturTW"
   ],
   "installer":"https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/System/.Install_system.json",
-  "name":"sys-rotur",
+  "name":"sys-asteros",
   "binary_file_types": [
     "PDF",
     "JPEG",
