@@ -10,7 +10,7 @@ save "files@system" "set_directory"
 window "dimensions" 1000 600
 window "show"
 
-files_path = "Origin/(C) Users/" ++ username
+files_path = "Aster/(C) Users/" ++ username
 user_path = files_path ++ "/"
 
 hidden = []
