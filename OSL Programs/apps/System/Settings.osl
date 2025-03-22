@@ -945,13 +945,13 @@ def "info" (
   c txtc
   loc 2 2 70 -70
   x = x_position
-  kernel = origin.kernel
+  kernel = aster.kernel
   loc 2 2 0 -50
   set_x x
-  text "originOS " 15
+  text "AsterOS " 15
   text kernel.name 12
   set_x x : chy#-20
-  text "Version" + origin.version 9
+  text "Version" + aster.version 9
   set_x x : chy#-30
   text "Kernel   |  " ++ kernel.name + kernel.version + kernel["type"] 9
   set_x x : chy#-20
@@ -962,10 +962,14 @@ def "info" (
   text "Screen   |  " ++ screensize_x ++ "x" ++ screensize_y 9
   set_x x : chy#-20
 
-  if system_url.startsWith("https://origin.mistium.com") (
+  if system_url.startsWith("https://asteros.milosantos.com") (
     text "Host     |  Official" 9
-  ) else (
+  ) else if system_url.startsWith("https://cdn.milosantos.com") (
+    text "Host     |  Unreleased" 9
+  ) else if system_url.startsWith("https://turbowarp.org") (
     text "Host     |  Editor" 9
+  ) else (
+    text "Host     |  Unofficial" 9
   )
   set_x x : chy#-20
   text "Shell    |  OTS" 9
