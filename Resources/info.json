@@ -5,6 +5,7 @@
   ],
   "installer":"https://raw.githubusercontent.com/MiloDev123/AsterOS/main/OSL%20Programs/apps/System/.Install_system.json",
   "name":"sys-asteros",
+  "rotur":"sys-rotur",
   "binary_file_types": [
     "PDF",
     "JPEG",
